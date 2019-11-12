@@ -1,0 +1,58 @@
+[
+    {
+        "created": {
+            "deviceID": "2", 
+            "timestamp": 1494288550303, 
+            "userRecordName": "_7b892f2a3eeaddd6afc77ff7158f69d9"
+        }, 
+        "fields": {
+            "question": {
+                "type": "STRING", 
+                "value": "Why?\n"
+            }, 
+            "response": {
+                "type": "STRING", 
+                "value": "That's why!"
+            }
+        }, 
+        "modified": {
+            "deviceID": "2", 
+            "timestamp": 1494386749697, 
+            "userRecordName": "_7b892f2a3eeaddd6afc77ff7158f69d9"
+        }, 
+        "pluginFields": {}, 
+        "recordChangeTag": "j2gstkiq", 
+        "recordName": "60d82b7d-32ef-4e91-9c12-585c92a3bb89", 
+        "recordType": "joke", 
+        "zoneID": {
+            "ownerRecordName": "_7b892f2a3eeaddd6afc77ff7158f69d9", 
+            "zoneName": "_defaultZone"
+        }
+    }, 
+    {
+        "created": {
+            "deviceID": "2", 
+            "timestamp": 1493860764804, 
+            "userRecordName": "_7b892f2a3eeaddd6afc77ff7158f69d9"
+        }, 
+        "fields": {
+            "question": {
+                "type": "STRING", 
+                "value": "Why didn't that work?"
+            }
+        }, 
+        "modified": {
+            "deviceID": "2", 
+            "timestamp": 1493860764804, 
+            "userRecordName": "_7b892f2a3eeaddd6afc77ff7158f69d9"
+        }, 
+        "pluginFields": {}, 
+        "recordChangeTag": "j29q4n74", 
+        "recordName": "be9916ef-e31b-4606-a1b6-8b0ed3dc0e8d", 
+        "recordType": "joke", 
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff", 
+            "zoneName": "_defaultZone"
+        }
+    }
+]

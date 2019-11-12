@@ -1,0 +1,1522 @@
+[
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572984322442,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572984322442,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2ma92z6",
+        "recordName": "3CCB6936-49BD-4CDF-8FAB-63F362C5D1B8",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1573004550986,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1573004550986,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2mmange",
+        "recordName": "0099B086-79CF-4ED6-94C5-321EB9B92482",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "_8a76cb86f6390ecf95f548796a270cc8",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572983115586,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572983115586,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2m9j7sj",
+        "recordName": "020147C3-0DEB-442B-A549-3F4EF168D4A5",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1573000089106,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?  HHIH"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "2",
+            "timestamp": 1573000428479,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2mjn0n9",
+        "recordName": "03E7ED0D-4064-451D-BFA8-98A30C31690E",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "_8a76cb86f6390ecf95f548796a270cc8",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572984556796,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572984556796,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2mae3u5",
+        "recordName": "08EBB578-9A4D-4B15-A2B7-BD6B126FEAE6",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "A293CB7F086DF3F853B88C6F9022FB78DBBE38D91A9B022FEBDBBDF0FFC576F3",
+            "timestamp": 1572924011241,
+            "userRecordName": "_c364d6b1fb322f17cd2346d1b82667a2"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "A293CB7F086DF3F853B88C6F9022FB78DBBE38D91A9B022FEBDBBDF0FFC576F3",
+            "timestamp": 1572924011241,
+            "userRecordName": "_c364d6b1fb322f17cd2346d1b82667a2"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2lacelf",
+        "recordName": "0FEB50A6-282E-49D5-BFF6-D6F661F4094E",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "A293CB7F086DF3F853B88C6F9022FB78DBBE38D91A9B022FEBDBBDF0FFC576F3",
+            "timestamp": 1572987425601,
+            "userRecordName": "_c364d6b1fb322f17cd2346d1b82667a2"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "A293CB7F086DF3F853B88C6F9022FB78DBBE38D91A9B022FEBDBBDF0FFC576F3",
+            "timestamp": 1572987425601,
+            "userRecordName": "_c364d6b1fb322f17cd2346d1b82667a2"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2mc3lf9",
+        "recordName": "117CC663-6154-4CBF-A29F-9EF57B4ADF38",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572927219562,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572927219562,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2lc9652",
+        "recordName": "134B71E0-433E-4E49-A182-B874B94EE1C1",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572975875391,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572975875391,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2m58181",
+        "recordName": "165BBA64-7657-4BE2-9986-443887EB78EC",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572987988160,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572987988160,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2mcfnhv",
+        "recordName": "1A87B6C7-B205-4759-9D84-C9FAC10BBAEE",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "_8a76cb86f6390ecf95f548796a270cc8",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1573004583171,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1573004583171,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2mmbcac",
+        "recordName": "1D301868-D029-4C7E-B098-22AE393D79BE",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "_8a76cb86f6390ecf95f548796a270cc8",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572983104606,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572983104606,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2m9izbh",
+        "recordName": "2A1F8F7A-A7B2-4B1C-8773-2F1CE2C913B0",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "A293CB7F086DF3F853B88C6F9022FB78DBBE38D91A9B022FEBDBBDF0FFC576F3",
+            "timestamp": 1572983132524,
+            "userRecordName": "_c364d6b1fb322f17cd2346d1b82667a2"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "A293CB7F086DF3F853B88C6F9022FB78DBBE38D91A9B022FEBDBBDF0FFC576F3",
+            "timestamp": 1572983132524,
+            "userRecordName": "_c364d6b1fb322f17cd2346d1b82667a2"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2m9jkv4",
+        "recordName": "2CD245B9-C81A-4477-827C-77EE8056AFB1",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1573004562333,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1573004562333,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2mmaw59",
+        "recordName": "33B781FA-2F02-447B-968F-259F30B2462C",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "_8a76cb86f6390ecf95f548796a270cc8",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1573004547535,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1573004547535,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2mmaksj",
+        "recordName": "343DB901-9D9C-4AFB-8649-DB9337A473F4",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "_8a76cb86f6390ecf95f548796a270cc8",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572984512842,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572984512842,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2mad5ul",
+        "recordName": "39D0191D-8947-4B11-A19E-9F124CFB02DE",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572987468809,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572987468809,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2mc4irg",
+        "recordName": "4AF00EAA-39EC-4155-BCAA-1F8BDE428B47",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572983117527,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572983117527,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2m9j9a8",
+        "recordName": "511D3CAC-7392-4DB0-845B-22342948B110",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572927301732,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572927301732,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2lcaxja",
+        "recordName": "57089766-F9A3-494D-AA67-232C89A47644",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572925053248,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572925053248,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2layqlt",
+        "recordName": "5B77F41C-903D-48ED-BBCB-09DCFA26A5C8",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "A293CB7F086DF3F853B88C6F9022FB78DBBE38D91A9B022FEBDBBDF0FFC576F3",
+            "timestamp": 1572987426919,
+            "userRecordName": "_c364d6b1fb322f17cd2346d1b82667a2"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "A293CB7F086DF3F853B88C6F9022FB78DBBE38D91A9B022FEBDBBDF0FFC576F3",
+            "timestamp": 1572987426919,
+            "userRecordName": "_c364d6b1fb322f17cd2346d1b82667a2"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2mc3mex",
+        "recordName": "66DA6282-47A4-4C56-B2AB-CDD8E902C031",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "A293CB7F086DF3F853B88C6F9022FB78DBBE38D91A9B022FEBDBBDF0FFC576F3",
+            "timestamp": 1572987427518,
+            "userRecordName": "_c364d6b1fb322f17cd2346d1b82667a2"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "A293CB7F086DF3F853B88C6F9022FB78DBBE38D91A9B022FEBDBBDF0FFC576F3",
+            "timestamp": 1572987427518,
+            "userRecordName": "_c364d6b1fb322f17cd2346d1b82667a2"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2mc3mwf",
+        "recordName": "6705571B-FD5E-4782-928C-D73008A57471",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "A293CB7F086DF3F853B88C6F9022FB78DBBE38D91A9B022FEBDBBDF0FFC576F3",
+            "timestamp": 1572987426245,
+            "userRecordName": "_c364d6b1fb322f17cd2346d1b82667a2"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "A293CB7F086DF3F853B88C6F9022FB78DBBE38D91A9B022FEBDBBDF0FFC576F3",
+            "timestamp": 1572987426245,
+            "userRecordName": "_c364d6b1fb322f17cd2346d1b82667a2"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2mc3lx6",
+        "recordName": "6D17CC9B-4153-413A-900D-B9CC9AD66497",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572987734255,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572987734255,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2mca7je",
+        "recordName": "73D08A1D-78DD-4113-86BE-F6C27CDBC57E",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "A293CB7F086DF3F853B88C6F9022FB78DBBE38D91A9B022FEBDBBDF0FFC576F3",
+            "timestamp": 1572987424971,
+            "userRecordName": "_c364d6b1fb322f17cd2346d1b82667a2"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "A293CB7F086DF3F853B88C6F9022FB78DBBE38D91A9B022FEBDBBDF0FFC576F3",
+            "timestamp": 1572987424971,
+            "userRecordName": "_c364d6b1fb322f17cd2346d1b82667a2"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2mc3kxr",
+        "recordName": "77678243-E28F-4549-BDE8-6C56940FF206",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572930637849,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572930637849,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2leafp6",
+        "recordName": "77C4BF61-FA50-44D2-B633-5A5FEA401C02",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572984334487,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572984334487,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2ma9cay",
+        "recordName": "9FAD9366-0E62-45AA-9785-B2731BEA7628",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "A293CB7F086DF3F853B88C6F9022FB78DBBE38D91A9B022FEBDBBDF0FFC576F3",
+            "timestamp": 1572987426710,
+            "userRecordName": "_c364d6b1fb322f17cd2346d1b82667a2"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "A293CB7F086DF3F853B88C6F9022FB78DBBE38D91A9B022FEBDBBDF0FFC576F3",
+            "timestamp": 1572987426710,
+            "userRecordName": "_c364d6b1fb322f17cd2346d1b82667a2"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2mc3m9y",
+        "recordName": "CF648348-A2F8-4151-958D-28B16916BA71",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572984568853,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572984568853,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2maed51",
+        "recordName": "CF7FC28F-1BD8-4A3E-9C82-2382DCD56CC9",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "2",
+            "timestamp": 1572923666106,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "test"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 1
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 2
+            },
+            "response": {
+                "type": "STRING",
+                "value": "test2"
+            }
+        },
+        "modified": {
+            "deviceID": "2",
+            "timestamp": 1572923666106,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2la507p",
+        "recordName": "AA672AF9-673D-FEC2-A29E-9A0FE9C172BC",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "A293CB7F086DF3F853B88C6F9022FB78DBBE38D91A9B022FEBDBBDF0FFC576F3",
+            "timestamp": 1572987427118,
+            "userRecordName": "_c364d6b1fb322f17cd2346d1b82667a2"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "A293CB7F086DF3F853B88C6F9022FB78DBBE38D91A9B022FEBDBBDF0FFC576F3",
+            "timestamp": 1572987427118,
+            "userRecordName": "_c364d6b1fb322f17cd2346d1b82667a2"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2mc3mk4",
+        "recordName": "D1235117-82AF-41E6-9646-982D4B5541AE",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572984332103,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572984332103,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2ma9agp",
+        "recordName": "D2C17924-8B3A-446F-8515-0F5620278169",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572975873515,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572975873515,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2m57zs0",
+        "recordName": "DB901F36-1E6F-419A-9FA1-344E8D21A829",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572988392992,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572988392992,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2mcobu3",
+        "recordName": "DCE4A6EF-A6A0-47C9-AE60-4022E13D511B",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "_8a76cb86f6390ecf95f548796a270cc8",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572984804008,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572984804008,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2majel6",
+        "recordName": "F3AA4A7E-6852-4C6E-B6CF-F36705FA5757",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572984618374,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572984618374,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2maffat",
+        "recordName": "F4C25DD4-9174-4A90-BC69-73F058040542",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1573005558223,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1573005558223,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2mmw8n6",
+        "recordName": "FABB9DFC-B245-40CE-874B-C09A7AA83916",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "_8a76cb86f6390ecf95f548796a270cc8",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    },
+    {
+        "created": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572929558704,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "deleted": false,
+        "fields": {
+            "question": {
+                "type": "STRING",
+                "value": "Why did the student throw a clock out the window?"
+            },
+            "rating_negative": {
+                "type": "INT64",
+                "value": 0
+            },
+            "rating_positive": {
+                "type": "INT64",
+                "value": 0
+            },
+            "response": {
+                "type": "STRING",
+                "value": "She wanted to see time fly."
+            }
+        },
+        "modified": {
+            "deviceID": "6552A45E2B5E9DC479A721C67AF2A8D4E4AEDB7DFF21B30D6009616B21DDC8AA",
+            "timestamp": 1572929558704,
+            "userRecordName": "_8a76cb86f6390ecf95f548796a270cc8"
+        },
+        "pluginFields": {},
+        "recordChangeTag": "k2ldnb19",
+        "recordName": "FB4DDE6C-14AC-4890-92F4-FDA78D1F8AA0",
+        "recordType": "joke",
+        "zoneID": {
+            "ownerRecordName": "ffffffffffffffff",
+            "zoneName": "_defaultZone",
+            "zoneType": "DEFAULT_ZONE"
+        }
+    }
+]
